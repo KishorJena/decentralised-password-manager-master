@@ -1,0 +1,22 @@
+{
+	"name": "De Keeper",
+	"description": "Decentralised Password Manager",
+	"version": "0.1.0",
+	"manifest_version": 3,
+	"permissions": [
+   		"tabs"
+	],
+	"action": {
+		"default_popup": "index.html",
+		"default_icon": {
+			"16": "/main-image-128_x_128.png",
+			"48": "/main-image-128_x_128.png",
+			"128": "/main-image-128_x_128.png"
+		}
+	},
+	"icons": {
+		"16": "/main-image-128_x_128.png",
+		"48": "/main-image-128_x_128.png",
+		"128": "/main-image-128_x_128.png"
+	}
+}
